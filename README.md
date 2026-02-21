@@ -25,11 +25,42 @@ All documents here are derivative artifacts. They reference their sources. They 
 
 ## Skills documents
 
+### Core
+
+| Document | Scope |
+|---|---|
+| [SKILLS.md](./SKILLS.md) | The 12 core transferable skills spanning both SWD and the Canon |
+
+### By problem space
+
 | Document | Problem space |
 |---|---|
-| [SKILLS.md](./SKILLS.md) | Core transferable skills across SWD and the Canon |
+| [SKILLS-semantic-drift.md](./SKILLS-semantic-drift.md) | Recognizing, preventing, and correcting semantic drift |
+| [SKILLS-agentic-operators.md](./SKILLS-agentic-operators.md) | Designing products safe and legible to agents and automations |
+| [SKILLS-structural-validity-under-pressure.md](./SKILLS-structural-validity-under-pressure.md) | Maintaining structural standards under organizational pressure |
+| [SKILLS-constraint-definition-for-teams.md](./SKILLS-constraint-definition-for-teams.md) | Writing, reviewing, and maintaining constraints as team artifacts |
 
-More documents will be added as specific problem spaces and roles are identified.
+### By role
+
+| Document | Role |
+|---|---|
+| [SKILLS-for-product-designers.md](./SKILLS-for-product-designers.md) | Product designers shifting from screen-first to entity-first |
+| [SKILLS-for-engineers-canonical-systems.md](./SKILLS-for-engineers-canonical-systems.md) | Engineers in canonical constraint systems |
+| [SKILLS-for-leads-meaning-governance.md](./SKILLS-for-leads-meaning-governance.md) | Leads and principals governing semantic integrity |
+
+### By use case
+
+| Document | Use case |
+|---|---|
+| [SKILLS-design-system-ontology-audit.md](./SKILLS-design-system-ontology-audit.md) | Auditing whether a design system is genuinely ontological |
+| [SKILLS-dual-surface-parity-audit.md](./SKILLS-dual-surface-parity-audit.md) | Auditing human/machine surface alignment |
+| [SKILLS-explicit-change-control.md](./SKILLS-explicit-change-control.md) | Lightweight explicit change control in fast-moving teams |
+
+---
+
+## How to navigate
+
+Start with [SKILLS.md](./SKILLS.md) for the foundational mental model, then follow the document most relevant to your current role or problem. Each document stands alone.
 
 ---
 
